@@ -5,3 +5,4 @@ Autor: Guillermo Alexander Fonseca Rodríguez.
 Edad: 38 años.
 Origen Bogotá D.C.
 Profesion: Ingeniería de sistemas.
+cita de Pablo Neruda "Podrás tener cualquier cosa en la vida si estás dispuesto a renunciar al sentimiento de necesitarlo desesperadamente."
