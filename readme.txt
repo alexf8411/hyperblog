@@ -1,2 +1,3 @@
 Hola esta es mi primera version desde linux
-estaves la primera modificacion desde vsc version 2
+esta ves la primera modificacion desde vsc version 2
+para corregir fue necesaria la version 3
