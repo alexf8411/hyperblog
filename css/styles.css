@@ -1,0 +1,20 @@
+body {
+    background-color: #EAFAF1;
+    color: #1A5276;
+    font-family: "EB Garamond", serif;
+  }
+  h1 {
+    color: #2E4053;
+  }
+  h1, p {
+    text-align: center;
+  }
+  
+  .container {
+    margin: 0 auto;
+    max-width: 800px;
+  }
+  
+  h1 {
+    font-weight: bold;
+  }
