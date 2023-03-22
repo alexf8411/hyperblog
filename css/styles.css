@@ -21,7 +21,33 @@ body {
     border: 1px solid saddlebrown;
     background: linear-gradient(to bottom right, #fac0c0, #eeeded); /* Gradiente para el fondo texturizado */
   }
+  .cabecera {
+    background-color: #e8e3ec; /* color morado */
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
 
+  .logo {
+    width: 5%; /* Ancho del logo en un 10% del contenedor padre */
+    height: auto; /* Altura ajustada automáticamente para mantener la proporción */
+  }
+  
+  .logo img {
+    border-radius: 50%;
+    width: 100%; /* Ancho al 100% del contenedor de la imagen */
+    height: 100%; /* Altura al 100% del contenedor de la imagen */
+  }
+
+  .titulo {
+    font-size: 2rem;
+    margin: 0;
+    text-align: left;
+    font-family: "Roboto", sans-serif; /* fuente elegante */
+    color: #492c2c; /* color de texto blanco */
+  }
   h1 {
     font-weight: bold;
   }
@@ -32,3 +58,4 @@ body {
     display: inline-block; /* Para que el ancho se ajuste al contenido */
     margin-right: 2%;
   }
+ 
