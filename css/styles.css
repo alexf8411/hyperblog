@@ -48,7 +48,7 @@ body {
     margin: 0;
     text-align: left;
     font-family: "Roboto", sans-serif; /* fuente elegante */
-    color: #492c2c; /* color de texto blanco */
+    color: #240625; /* color de texto blanco */
   }
   h1 {
     font-weight: bold;
@@ -60,4 +60,11 @@ body {
     display: inline-block; /* Para que el ancho se ajuste al contenido */
     margin-right: 2%;
   }
- 
+
+  .msn {
+    text-align: left;
+  }
+  .izquierda {
+    display: inline-block; /* Para que el ancho se ajuste al contenido */
+    margin-left: 2%;
+  }
