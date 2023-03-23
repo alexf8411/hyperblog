@@ -9,3 +9,5 @@ cita de Pablo Neruda "Podrás tener cualquier cosa en la vida si estás dispuest
 
 Este proyecto sera un blog de literatura y poemas
 El primer blog dedicado a un poema celebrede pablo Neruda
+
+Git es dificil pero no imposible 
