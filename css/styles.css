@@ -5,6 +5,7 @@ body {
     font-size: 16px;
     margin: 0;
     padding: 0;
+    
   }
   h1 {
     color: #043468;
@@ -21,6 +22,7 @@ body {
     border: 1px solid saddlebrown;
     background: linear-gradient(to bottom right, #fac0c0, #eeeded); /* Gradiente para el fondo texturizado */
     box-shadow: 0px 2px 2px 0px saddlebrown;
+    margin: 10% auto 0;
   }
   .cabecera {
     background-color: #e8e3ec; /* color morado */
@@ -67,4 +69,18 @@ body {
   .izquierda {
     display: inline-block; /* Para que el ancho se ajuste al contenido */
     margin-left: 2%;
+  }
+
+  .footer {
+    background-color: #e8e3ec;
+    padding: 0px;
+    text-align: center;
+    
+    
+    box-shadow: 0px -2px 2px 0px saddlebrown;
+    font-size: 14px;
+    color: #240625;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
   }
